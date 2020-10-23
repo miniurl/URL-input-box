@@ -31,5 +31,5 @@ Embed Miniurl.id URL input box on your own webpage
 </div>
 ```
 Embed Procedure:
-1. Copy the form tag from index.html
+1. Copy the form tag from html code above, from index.html or from this [link](https://miniurl.id/tools/link-click-analytics?ref=github&page=https%3A%2F%2Fgithub.com%2Fminiurl%2FURL-input-box&redirto=https%3A%2F%2Fminiurl.id%2Fapps.php%3Fref%3Dgithub%23URL_Input_Box&event=open_link&message=url_input_box)
 2. Paste on your webpage code
