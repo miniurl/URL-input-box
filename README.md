@@ -21,7 +21,7 @@ Embed Miniurl.id URL input box on your own webpage
 <br><br>
 <label for="alias">Custom URL's back-half <i>(optional)</i></label><br>
 <label for="alias">v.gd/</label>
-<input type="text" id="alias" name="alias" value="" placeholder="Ignore for random URL's back-half"  size="25" maxlength="32" pattern="^[a-zA-Z0-9_]+$" title="May only contain the characters a-z, 0-9 and underscore. Min 5 characters" autocomplete="off" autocapitalize="off" autocorrect="off" tabindex="2">
+<input type="text" id="alias" name="alias" value="" placeholder="Ignore for random URL's back-half"  size="25" pattern="^[a-zA-Z0-9_]+$" title="May only contain the characters a-z, 0-9 and underscore. Min 5 characters" autocomplete="off" autocapitalize="off" autocorrect="off" tabindex="2">
 <br><label for="alias">Short URLs may only contain the characters a-z, 0-9 and underscore. Min 5 characters</label>
 <input type="hidden" name="page" value="form" />
 <input type="hidden" id="formref" name="ref" value=""/>
